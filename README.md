@@ -66,7 +66,7 @@ This repository contains Python implementations for various network concepts and
 Each project is contained in its own directory with the following structure:
 
 ```
-project-name/
+network-programming-projects/
 ├── src/        
 ├── tests/
 ├── requirements.txt 
@@ -87,8 +87,8 @@ project-name/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-network-assignments.git
-   cd python-network-assignments
+   git clone https://github.com/matias-miller/python-network-assignments.git
+   cd network--programming-assignments
    ```
 
 2. Set up a virtual environment:
