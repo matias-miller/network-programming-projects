@@ -67,12 +67,12 @@ Each project is contained in its own directory with the following structure:
 
 ```
 project-name/
-├── src/            # Python source code files
-├── tests/          # Test cases and unit tests
-├── requirements.txt # Python dependencies
-├── docs/           # Documentation
-│   └── report.md   # Project report and findings
-└── README.md       # Project-specific documentation
+├── src/        
+├── tests/
+├── requirements.txt 
+├── docs/  
+│   └── report.md   
+└── README.md 
 ```
 
 ## Prerequisites
@@ -166,4 +166,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Matt Miller
+Matt M
